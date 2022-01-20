@@ -1,37 +1,37 @@
 // src/data.js
 
 export const projects = [
-    {
-      title: "React Reserve",
-      subtitle: "MERN Stack",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-1.gif",
-      link: "https://reactbootcamp.com",
-    },
-    {
-      title: "React Tracks",
-      subtitle: "React and Python",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
-      link: "https://reedbarger.com",
-    },
-    {
-      title: "DevChat",
-      subtitle: "React and Firebase",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://jsbootcamp.com",
-    },
-    {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://pythonbootcamp.com",
-    },
-  ];
-  export const testimonials =[];
+  {
+    title: "Simple Doc",
+    subtitle: "web application ",
+    description:
+      "that help hospital staff connect and work seamlessly. As well as, contact patient for comments.",
+    image: "",
+    link: "https://github.com/jisrael-R/simple-doc",
+  },
+  {
+    title: "Eat in Peace",
+    subtitle: "Web application",
+    description:
+      "Eat in Peace is a calorie tracker & restaurant locater. That will make your life easier. Eat without guilt and still be bellow your daily recommended caloric intake. We want you to eat with peace of mind.",
+    image: "",
+    link: "https://github.com/fallf/dreamteam",
+  },
+  {
+    title: "WORK DAY SCHEDULER",
+    subtitle: " WEB APPLICATION",
+    description:
+      "This application helps you put everything out, it can be edit at any time and saved. It is a to do list that track you from 9 to 5",
+    image: "",
+    link: "https://github.com/fallf/faworkday",
+  },
+  {
+    title: "PASSWORD GENERATOR",
+    subtitle: " WEB APPLICATION",
+    description:
+      "An application that generates a random password based on user-selected criteria.",
+    image: "",
+    link: "https://github.com/fallf/fallf.Password.io",
+  },
+];
+export const testimonials =[];
