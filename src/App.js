@@ -12,8 +12,8 @@ import Testimonials from "./components/Testimonials";
       <Navbar />
       <About />
       <Projects />
-      <Skills />
-      <Testimonials />
+     {/*<Skills />
+      <Testimonials /> */}
       <Contact />
     </main>
   );
